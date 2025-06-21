@@ -1,0 +1,8 @@
+export const prettier = `{
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "semi": true
+}
+`
