@@ -87,8 +87,6 @@ CORS_ORIGIN=http://localhost:5173
 Contributions, issues, and feature requests are welcome!
 Feel free to open a Pull Request or Issue.
 
-👨‍💻 Author
-Developed and maintained by Naman Tulsyan
 
 ⭐️ Show Your Support
 If you found this helpful, please consider giving a ⭐️ on GitHub!
